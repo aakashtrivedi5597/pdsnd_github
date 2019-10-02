@@ -5,7 +5,7 @@
 Exploring US Bikeshare data.
 
 ### Description
-Describe what your project is about and what it does
+Python project for exploring Bikeshare data for 3 cities with different functions.
 
 ### Files used
 Include the files used
